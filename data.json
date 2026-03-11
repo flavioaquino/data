@@ -1,29 +1,3 @@
 {
-  "status": "ok",
-  "description": "Dados para suporte",
-  "data": [
-    {
-      "id": 1,
-      "titulo": "Item 1",
-      "descricao": "Descrição do item 1",
-      "categoria": "suporte",
-      "ativo": true
-    },
-    {
-      "id": 2,
-      "titulo": "Item 2",
-      "descricao": "Descrição do item 2",
-      "categoria": "verificação",
-      "ativo": true
-    },
-    {
-      "id": 3,
-      "titulo": "Item 3",
-      "descricao": "Descrição do item 3",
-      "categoria": "dados",
-      "ativo": false
-    }
-  ],
-  "total": 3,
-  "updated_at": "2026-03-11"
+  "sistema1f": "ok"
 }
