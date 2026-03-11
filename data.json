@@ -1,0 +1,24 @@
+{
+  "site": "flavioaquino/data",
+  "descricao": "Verificações, dados e etc pra suporte",
+  "dados": [
+    {
+      "id": 1,
+      "titulo": "Item de suporte 1",
+      "status": "ativo",
+      "descricao": "Descrição do primeiro item de suporte"
+    },
+    {
+      "id": 2,
+      "titulo": "Item de suporte 2",
+      "status": "ativo",
+      "descricao": "Descrição do segundo item de suporte"
+    },
+    {
+      "id": 3,
+      "titulo": "Item de suporte 3",
+      "status": "inativo",
+      "descricao": "Descrição do terceiro item de suporte"
+    }
+  ]
+}
